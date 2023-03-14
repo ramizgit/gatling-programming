@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class InputParam {
-
     private static int count;
     private static String DEFAULT_MOBILE_NUM = "8884592118";
 
@@ -49,6 +48,7 @@ public class InputParam {
         //mobileNums.add("9964241437");
         //mobileNums.add("8147106125");
 
+        //reset count
         count = 0;
     }
 }
