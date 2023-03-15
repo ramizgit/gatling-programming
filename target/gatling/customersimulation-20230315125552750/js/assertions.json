@@ -1,0 +1,10 @@
+{
+  "simulation": "tatkalcare.customer.CustomerSimulation",
+  "simulationId": "customersimulation-20230315125552750",
+  "start": 1678884954034,
+  "description": "",
+  "scenarios": ["Login8", "Login10", "Login6", "Login4", "Login3", "Login5", "Login9", "Login1", "Login2", "Login7"],
+  "assertions": [
+
+  ]
+}
