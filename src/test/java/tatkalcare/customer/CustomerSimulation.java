@@ -25,7 +25,7 @@ public class CustomerSimulation extends Simulation {
     ScenarioBuilder scenario10 = scenario("Login10").exec(TestScenario.scenaio("8759689412"));
 
     {
-        System.out.println("Customer api simulation !!!");
+        System.out.println("Customer api simulation for performance test!!!");
         setUp(
                 scenario1.injectOpen(rampUsers(1).during(1)),
                 scenario2.injectOpen(rampUsers(1).during(1)),
